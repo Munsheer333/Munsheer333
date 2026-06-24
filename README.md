@@ -58,7 +58,7 @@ An enterprise-grade offline AI system that converts natural language questions i
 ---
 
 ### 🎬 [Emotion-Based Movie Recommendation System](https://github.com/YOUR_GITHUB_USERNAME/emotion-movie-recommender)
-> *Python • NLP • Streamlit • Flask • TF-IDF • SVD • KNN*
+> *Python • NLP • Streamlit • TF-IDF • SVD • KNN*
 
 An emotion-aware recommender that reads user sentiment and serves personalized movie suggestions in real time.
 
