@@ -278,258 +278,331 @@ My goal is to build enterprise-ready AI applications that combine intelligent au
 
 ---
 
-# 💻 Tech Stack
-
-### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,postgres" />
-</p>
-
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-</p>
-
-### 📊 Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
-  <img src="https://img.shields.io/badge/Polars-0094FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-</p>
-
-### 🌐 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
-### ☁️ Currently Exploring
-<p>
-  <img src="https://img.shields.io/badge/MCP-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-E65100?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-1565C0?style=for-the-badge" />
-</p>
-
 # 🚀 Featured Projects
 
-<table>
-<tr>
+---
 
-<td width="50%">
+## 🤖 Offline Enterprise SQL Query Generator
 
-### 🤖 AI-Powered SQL Generator
-Generate optimized SQL queries using Large Language Models with schema awareness.
+> **Enterprise AI System for Natural Language to SQL Generation**
 
-**✨ Highlights**
-- Natural Language → SQL
-- Database Schema Understanding
-- Query Validation
-- Enterprise Ready
-- FastAPI Backend
+<img align="right" width="320" src="https://img.shields.io/badge/Enterprise-AI-blue?style=for-the-badge"/>
 
-**🛠️ Tech Stack**
-`Python` `FastAPI` `LangChain` `SQL` `PostgreSQL`
+### 📌 Overview
 
-🔗 **Repository:** *(Add your GitHub link here)*
+Designed and developed an **offline enterprise-grade AI system** capable of converting natural language questions into optimized PostgreSQL queries without relying on external APIs.
 
-</td>
-
-<td width="50%">
-
-### 🎬 Emotion-Based Movie Recommendation System
-A recommendation engine that combines emotion detection with collaborative and content-based filtering.
-
-**✨ Highlights**
-- Emotion Detection
-- Hybrid Recommendation
-- Streamlit UI
-- Machine Learning
-- NLP Techniques
-
-**🛠️ Tech Stack**
-`Python` `Pandas` `Scikit-Learn` `Streamlit`
-
-🔗 **Repository:** *(Add your GitHub link here)*
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚡ Customer-to-Invoice Reconciliation Engine
-Automates reconciliation workflows by matching customer and invoice transactions with configurable business rules.
-
-**✨ Highlights**
-- Rule-Based Matching
-- Data Validation
-- Polars Data Processing
-- Enterprise Workflow
-- Exception Handling
-
-**🛠️ Tech Stack**
-`Python` `Polars` `SQL`
-
-🔗 **Repository:** *(Add your GitHub link here)*
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Analytics Toolkit
-A collection of utilities for data cleaning, transformation, visualization, and exploratory data analysis.
-
-**✨ Highlights**
-- Data Cleaning
-- ETL Operations
-- Visual Analytics
-- Reporting
-- Automation
-
-**🛠️ Tech Stack**
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-🔗 **Repository:** *(Add your GitHub link here)*
-
-</td>
-
-</tr>
-</table>
+The system combines **Retrieval-Augmented Generation (RAG)**, **semantic retrieval**, **vector search**, and **local LLM inference** to generate accurate SQL queries for enterprise analytics.
 
 ---
 
-## 🌟 More Projects
+### ⚙️ Tech Stack
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🧠 AI Chatbot | Conversational AI assistant with memory and tool integration | Python, LangChain |
-| 📈 Sales Dashboard | Interactive dashboard for business insights | Python, SQL |
-| 🔍 Data Cleaning Scripts | Automation scripts for preprocessing datasets | Python, Pandas |
-| ⚙️ Workflow Automation | Python automation for repetitive business tasks | Python |
-| 🗃️ Database Utilities | SQL helper scripts and database management tools | SQL, PostgreSQL |
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres"/>
 
-### 🎯 What I'm Building Next
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 
-- 🤖 Enterprise AI Agents
-- 🧠 Multi-Agent Systems
-- 📚 Advanced RAG Applications
-- ⚡ AI Workflow Automation
-- 🗄️ Intelligent SQL Assistants
-- 🚀 Production-Ready FastAPI Services
+<img src="https://img.shields.io/badge/LangGraph-green?style=for-the-badge"/>
 
-# 💼 Experience
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
 
-### 🧪 Software Testing Intern
-**Current Role**
+<img src="https://img.shields.io/badge/pgvector-4B8BBE?style=for-the-badge"/>
 
-📅 **2026 – Present**
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
 
-**Key Contributions**
-- Built and tested reconciliation workflows for enterprise financial systems.
-- Worked with **Polars** for high-performance data transformation and filtering.
-- Validated customer-to-invoice reconciliation pipelines.
-- Designed and executed test cases for workflow automation.
-- Investigated data mismatches and reconciliation failures.
-- Collaborated with developers to identify and resolve workflow issues.
-
-**Technologies**
-`Python` `Polars` `SQL` `Data Validation` `Testing`
+</p>
 
 ---
 
-### 🤖 Machine Learning Intern
-**BrainOvision Solutions India Pvt. Ltd.**
+### ⭐ Key Features
 
-📅 Internship
-
-**Project**
-**Emotion-Based Movie Recommendation System**
-
-**Responsibilities**
-- Built a hybrid recommendation engine.
-- Performed data preprocessing using Pandas.
-- Applied machine learning algorithms for personalized recommendations.
-- Developed an interactive interface using Streamlit.
-- Improved recommendation quality through content-based and collaborative filtering.
-
-**Technologies**
-`Python` `Pandas` `Scikit-Learn` `Streamlit`
+- 🧠 Natural Language → SQL Conversion
+- 🔍 Semantic Retrieval Pipeline
+- 📚 Schema-aware Context Injection
+- 🤖 Local LLM Integration
+- ⚡ FastAPI Backend APIs
+- 🛡 SQL Validation Workflow
+- 🔄 Self-Healing Query Correction
+- 📈 Query Optimization
+- 🗄 PostgreSQL Integration
+- 🚀 Enterprise-ready Architecture
 
 ---
 
-# 🎓 Education
+### 🏗️ Workflow
 
-### Bachelor of Technology (B.Tech)
-
-🎓 **Computer Science & Engineering**
-
-**CGPA:** **7.11 / 10**
-
-**Status:** Graduated
-
----
-
-# 📜 Certifications
-
-- 🏆 Python Programming
-- 🏆 SQL Fundamentals
-- 🏆 Machine Learning
-- 🏆 Data Analytics
-- 🏆 AI & Generative AI *(if completed)*
-
----
-
-# 📈 Professional Interests
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Enterprise Automation
-- Backend Development
-- Data Engineering
-- Workflow Automation
+```text
+User Question
+      │
+      ▼
+Semantic Retrieval
+      │
+      ▼
+Schema Context Injection
+      │
+      ▼
+Large Language Model
+      │
+      ▼
+SQL Validation
+      │
+      ▼
+Query Optimization
+      │
+      ▼
+PostgreSQL
+      │
+      ▼
+Results
+```
 
 ---
 
-# 🎯 Career Objective
+### 🎯 Business Impact
 
-Passionate about designing scalable AI solutions, backend systems, and intelligent automation tools that solve real-world business problems. Continuously learning modern AI technologies while building production-ready applications using Python, FastAPI, SQL, and Large Language Models.
+✔ Reduces manual SQL writing
 
-# 📊 GitHub Analytics
+✔ Enables business users to query databases naturally
+
+✔ Improves SQL generation accuracy through RAG
+
+✔ Supports secure offline enterprise environments
+
+---
+
+<br>
+
+# 🎬 Emotion-Based Movie Recommendation System
+
+> **AI-powered Personalized Recommendation System**
+
+<img align="right" width="320" src="https://img.shields.io/badge/Machine%20Learning-Recommendation-red?style=for-the-badge"/>
+
+### 📌 Overview
+
+Built an intelligent recommendation system that understands user emotions from text input and recommends personalized movies using **NLP** and **hybrid recommendation techniques**.
+
+The application combines sentiment analysis with collaborative and content-based filtering to improve recommendation quality.
+
+---
+
+### ⚙️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TF--IDF-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SVD-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KNN-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⭐ Key Features
+
+- 😊 Emotion Detection
+- 💬 NLP Sentiment Analysis
+- 🎯 Personalized Recommendations
+- 📚 Hybrid Recommendation Engine
+- 🔍 Similarity Search
+- ⚡ Streamlit Web Interface
+- 🔗 Flask Backend Integration
+- 📈 Real-time Recommendations
+
+---
+
+### 🏗️ Workflow
+
+```text
+User Input
+      │
+      ▼
+Emotion Detection
+      │
+      ▼
+Sentiment Analysis
+      │
+      ▼
+TF-IDF
+      │
+      ▼
+SVD
+      │
+      ▼
+KNN Similarity
+      │
+      ▼
+Recommendation Engine
+      │
+      ▼
+Movie Suggestions
+```
+
+---
+
+### 🎯 Business Impact
+
+✔ Personalized recommendations
+
+✔ Better user engagement
+
+✔ Hybrid recommendation strategy
+
+✔ Real-time prediction pipeline
+
+---
+
+# 📊 Project Highlights
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Munsheer333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munsheer333&layout=compact&theme=tokyonight&hide_border=true"/>
+| 🚀 Project | 🎯 Domain | ⚙️ Core Technologies |
+|------------|-----------|----------------------|
+| Offline SQL Query Generator | Enterprise AI | Python, FastAPI, PostgreSQL, RAG, LangChain, LangGraph |
+| Emotion-Based Movie Recommendation | Machine Learning | Python, NLP, Streamlit, TF-IDF, SVD, KNN |
 
 </div>
 
 ---
 
+# 💼 Professional Experience
+
+---
+
+## 🏢 Python Data Science Intern
+
+### The Sun Technologies
+
+**📅 May 2025 – Dec 2025**
+
+### 🎯 Responsibilities
+
+- 🧹 Cleaned and analyzed **50,000+ records** using Python.
+- 📊 Improved data quality for analytics and predictive models.
+- 📈 Automated reporting workflows to reduce manual effort.
+- 📉 Developed dashboards for business insights.
+- ⚡ Reduced reporting time by approximately **30%**.
+- 🤝 Worked with real-world datasets and data processing pipelines.
+
+### 🛠 Technologies Used
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 Machine Learning Intern
+
+### BrainOvision Solutions Pvt. Ltd.
+
+**📅 Dec 2024 – Apr 2025**
+
+### 🎯 Responsibilities
+
+- 🎬 Built an Emotion-Based Movie Recommendation System.
+- 🧠 Applied NLP techniques for sentiment analysis.
+- 📚 Implemented hybrid recommendation algorithms.
+- 📈 Improved recommendation quality by approximately **20%**.
+- 🌐 Developed an interactive Streamlit application.
+- 🔗 Integrated backend APIs for recommendation workflows.
+
+### 🛠 Technologies Used
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Munsheer333&theme=tokyonight&hide_border=true"/>
+| 🎓 Degree | 🏫 Institution | 📅 Duration |
+|-----------|----------------|------------|
+| **B.Tech – Artificial Intelligence & Data Science** | Sree Venkateswara College of Engineering | **2022 – 2025** |
+| **Diploma – Electrical & Electronics Engineering** | Government Polytechnic, Nellore | **2019 – 2022** |
+| **SSC** | St. Paul's E.M. High School | **2018 – 2019** |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| 🏆 Certification | 📚 Provider |
+|-----------------|-------------|
+| Introduction to Internet of Things (IoT) | NPTEL |
+| Communication & Teamwork | edX |
+| Machine Learning Internship | BrainOvision Solutions Pvt. Ltd. |
+
+</div>
+
+---
+
+# 🏅 Professional Highlights
+
+- 🤖 Built Enterprise AI Applications using **Generative AI** and **RAG**
+- 🔍 Developed semantic retrieval and vector search workflows
+- 🧠 Worked with **LangChain** and **LangGraph**
+- ⚡ Built backend services using **FastAPI**
+- 📊 Processed and analyzed **50,000+ records**
+- 🎬 Developed a hybrid **Movie Recommendation System**
+- 💬 Applied **Natural Language Processing (NLP)** techniques
+- 🗄️ Worked with **PostgreSQL**, **pgvector**, and **FAISS**
+
+---
+
+# 🎯 Career Objective
+
+> **To build intelligent, production-ready AI systems that combine Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and AI Agents to solve real-world business challenges through scalable and maintainable software engineering.**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Munsheer333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munsheer333&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Munsheer333&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -549,202 +622,67 @@ Passionate about designing scalable AI solutions, backend systems, and intellige
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Munsheer333&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Munsheer333&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# ⚡ Profile Summary Cards
+# 🐍 Contribution Snake
+
+> **⚠️ This animation works only after adding a GitHub Actions workflow.**
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Munsheer333&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Munsheer333/Munsheer333/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Munsheer333&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+| 🚀 Learning | 📚 Focus |
+|-------------|----------|
+| 🤖 Agentic AI | Building autonomous AI workflows |
+| 🧠 Advanced RAG | Retrieval optimization & hybrid search |
+| ⚡ LangGraph | Multi-agent orchestration |
+| 💬 Prompt Engineering | High-quality prompt design |
+| 🔍 Semantic Search | Vector retrieval pipelines |
+| 🗄 PostgreSQL + pgvector | Enterprise AI databases |
+| 🚀 Local LLMs | Offline AI deployment |
 
 </div>
 
-# 🌱 Currently Learning
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Multi-Agent Systems
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend & APIs
-- FastAPI
-- REST APIs
-- Authentication & Security
-- Async Python
-- API Deployment
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data Engineering
-- Polars
-- Advanced SQL
-- PostgreSQL
-- ETL Pipelines
-- Data Validation
-
-</td>
-
-<td width="50%">
-
-### ☁️ Tools & Infrastructure
-- Docker
-- GitHub Actions
-- MCP (Model Context Protocol)
-- Linux
-- Cloud Fundamentals
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 🗺️ AI Learning Roadmap
-
-- ✅ Python Programming
-- ✅ SQL
-- ✅ Data Analysis with Pandas
-- ✅ Machine Learning Fundamentals
-- ✅ FastAPI Basics
-- ✅ LangChain Fundamentals
-- 🔄 Advanced RAG
-- 🔄 AI Agent Development
-- 🔄 Multi-Agent Systems
-- 🔄 LLM Evaluation & Optimization
-- 🎯 Production AI Systems
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-ready AI applications
-- 🤖 Develop enterprise-grade AI agents
-- 📚 Contribute to open-source AI projects
-- 🛠️ Publish high-quality GitHub repositories
-- ✍️ Share technical articles and project write-ups
-- 🌍 Grow as an AI Engineer through continuous learning
-
----
-
-# 📖 Current Focus
-
-```text
-Python            ██████████████  95%
-SQL               █████████████  90%
-Polars            ████████████   80%
-FastAPI           ███████████    75%
-LangChain         ██████████     70%
-RAG               ████████       60%
-AI Agents         ███████        55%
-Docker            ██████         45%
-```
-
-> **Note:** These bars represent my current learning focus and confidence—not formal proficiency ratings.
-
----
-
-# 💡 Philosophy
-
-> **"Learn deeply, build consistently, and solve real-world problems with AI."**
-
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/Munsheer333">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/syed-munshir/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:munsheer333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Munsheer333">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🤝 Open To Collaborate
-
-I'm interested in collaborating on projects involving:
-
-- 🤖 AI & Generative AI
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Agents & Workflow Automation
-- 🌐 FastAPI Backend Development
-- 📊 Data Engineering & Analytics
-- 🗄️ SQL & Database Optimization
-- 🚀 Open Source Projects
-
----
-
-# 💬 Ask Me About
-
-```text
-🐍 Python
-🗄️ SQL & PostgreSQL
-📊 Pandas & Polars
-⚡ FastAPI
-🤖 LangChain
-📚 RAG Applications
-🧠 AI Agents
-🔍 Software Testing
-📈 Data Analytics
-```
-
----
-
-# 📬 Let's Connect
-
-If you're working on AI, backend development, data engineering, or automation, I'd be happy to connect, exchange ideas, or collaborate on interesting projects.
-
-⭐ If you find my repositories useful, consider giving them a star—it helps others discover them too!
-
----
-
-# ✨ Thanks for Visiting!
+# 💬 Engineering Mindset
 
 <div align="center">
 
-### 🚀 Building intelligent systems, one commit at a time.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;Building+LLMs+%26+AI+Agents;FastAPI+%7C+SQL+%7C+Polars;Always+Learning+Something+New!" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+> **"The best AI systems don't just generate answers—they solve meaningful problems through thoughtful engineering."**
 
 </div>
 
@@ -752,12 +690,11 @@ If you're working on AI, backend development, data engineering, or automation, I
 
 <div align="center">
 
-### ⭐ *"The best way to predict the future is to build it."*
+## ⭐ Thanks for visiting my profile!
 
-**Thanks for stopping by!**
+If you like my work, consider giving a ⭐ to my repositories and connecting with me.
 
-If you enjoy my work, feel free to ⭐ my repositories, open an issue, or connect with me.
-
-**Happy Coding! 👨‍💻**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=120&section=footer"/>
 
 </div>
+
